@@ -1,6 +1,4 @@
 #joao.silva@fiap.com.br, maria.souza@fiap.com.br, ana.paula@fiap.com.br
-#Receber lista de email digitada pelo usuário
-entrada = input("Digite a lista de e-mails separada por vírgulas:")
 emails = entrada.split(",")
 
 #Separar cada email em nome de usuário e domínio
